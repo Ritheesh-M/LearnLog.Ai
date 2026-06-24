@@ -1,0 +1,6 @@
+{
+  "name": "LearnLog AI",
+  "description": "Your AI-Powered Knowledge Universe. Write what you learned, and Gemini AI maps your semantic constellation, generates quizzes, detects knowledge gaps, and chats about your learning history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
